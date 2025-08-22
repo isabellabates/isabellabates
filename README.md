@@ -22,8 +22,8 @@ While my academic and professional background is rooted in STEM, I bring a **cre
 
 * 📊 **Modeling & simulation** (agents, networks, big data)
 * 🎨 **Human‑centered design & creative projects** (art, UI/UX, animation)
-* 🎮 **Gameplay programming** in C++ (AI/behaviors, systems, tools)
-* 🎶 **Music & storytelling** (songwriting, digital media, ethical branding)
+* 🎮 **Gameplay programming** in C++ and Python (AI/behaviors, systems, tools)
+* 🎶 **Music & storytelling** (songwriting, digital media, content creation)
 
 <!--
 ---
@@ -60,10 +60,10 @@ Notebooks showcasing classic models (logistic regression, SVMs, simple nets) wit
 
 ## Skills Snapshot
 
-**Languages:** Python, C++, HTML, JavaScript, TypeScript, SQL
-**Tools:** Docker, CMake, Catch2, GitHub Actions
-**Frontend:** Angular 19, Material, RxJS
-**Concepts:** Data modeling and visualization, machine learning, probability, gameplay AI (Utility, FSM), creative coding
+* **Languages:** Python, C++, HTML, JavaScript, TypeScript, SQL
+* **Tools:** Docker, CMake, Catch2, GitHub Actions
+* **Frontend:** Angular 19, Material, RxJS
+* **Concepts:** Data modeling and visualization, machine learning, probability, gameplay AI (Utility, FSM), creative coding
 
 ---
 
