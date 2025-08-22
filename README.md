@@ -6,9 +6,9 @@
 
 ### About Me
 
-I recently graduated from CU Boulder, where I double majored in **Computer Science** and **Applied Mathematics**. I worked as a research assistant on **GHOST**, a National Science Foundation–funded project developing cutting-edge 5G security tools to protect sensitive information and ensure user safety in potentially hostile environments.
+I recently graduated from CU Boulder, where I double majored in **Computer Science** and **Applied Mathematics**. I work as a research assistant on **GHOST**, a National Science Foundation–funded project developing cutting-edge 5G security tools to protect sensitive information and ensure user safety in potentially hostile environments.
 
-My contributions included:
+My contributions include:
 
 * Developing **precise mathematical models** for network traffic
 * Generating **2‑D and 3‑D intuitive data visualizations**
