@@ -18,7 +18,7 @@ While my academic and professional background is rooted in STEM, I bring a **cre
 
 ---
 
-## What I’m Into
+### What I’m Into
 
 * 📊 **Modeling & simulation** (agents, networks, big data)
 * 🎨 **Human‑centered design & creative projects** (art, UI/UX, animation)
@@ -49,7 +49,7 @@ Notebooks showcasing classic models (logistic regression, SVMs, simple nets) wit
 -->
 ---
 
-## Selected Accomplishments
+### Selected Accomplishments
 
 * **NSF‑funded 5G GHOST research assistant** — modeling, simulation, UI design
 * **2× IEEE papers;** presented at **MILCOM 2023 & 2024**
@@ -58,7 +58,7 @@ Notebooks showcasing classic models (logistic regression, SVMs, simple nets) wit
 
 ---
 
-## Skills Snapshot
+### Skills Snapshot
 
 * **Languages:** Python, C++, HTML, JavaScript, TypeScript, SQL
 * **Tools:** Docker, CMake, Catch2, GitHub Actions
@@ -67,7 +67,7 @@ Notebooks showcasing classic models (logistic regression, SVMs, simple nets) wit
 
 ---
 
-## Contact
+### Contact
 
 * **Email:** [isabellabatesbusiness@gmail.com](mailto:isabellabatesbusiness@gmail.com)
 * **LinkedIn:** <[https://www.linkedin.com/in/isabellabates](https://www.linkedin.com/in/isabellabates)isabellabates>
