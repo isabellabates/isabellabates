@@ -70,7 +70,7 @@ Notebooks showcasing classic models (logistic regression, SVMs, simple nets) wit
 ### Contact
 
 * **Email:** [isabellabatesbusiness@gmail.com](mailto:isabellabatesbusiness@gmail.com)
-* **LinkedIn:** <[https://www.linkedin.com/in/isabellabates](https://www.linkedin.com/in/isabellabates)isabellabates>
+* **LinkedIn:** [https://www.linkedin.com/in/isabellabates](https://www.linkedin.com/in/isabellabates)isabellabates
 
 ---
 
