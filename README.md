@@ -1,7 +1,9 @@
 ## Hi, I'm Isabella!
 
 **B.A. in Computer Science, B.S. in Applied Mathematics** 
+
 Certificate in Engineering Leadership.
+
 University of Colorado Boulder, College of Engineering & Applied Science. 
 
 ---
