@@ -1,6 +1,8 @@
 ## Hi, I'm Isabella!
 
-**B.A. in Computer Science & B.S. in Applied Mathematics** — University of Colorado Boulder, College of Engineering & Applied Science. Certificate in Engineering Leadership.
+**B.A. in Computer Science, B.S. in Applied Mathematics** 
+Certificate in Engineering Leadership.
+University of Colorado Boulder, College of Engineering & Applied Science. 
 
 ---
 
@@ -15,15 +17,6 @@ My contributions include:
 * Designing the **GHOST user interface** that enables military personnel to plan and execute deception operations effectively and securely
 
 While my academic and professional background is rooted in STEM, I bring a **creative dimension** to my skill set. As a **songwriter and content creator**, I’ve built a successful platform on TikTok and YouTube where I share original music and storytelling. My experience in branding, advertising, and authentic storytelling has led to collaborations with brands and recognition as an official **ZAG influencer** for *Miraculous Tales of Ladybug and Cat Noir*.
-
----
-
-### What I’m Into
-
-* 📊 **Modeling & simulation** (agents, networks, big data)
-* 🎨 **Human‑centered design & creative projects** (art, UI/UX, animation)
-* 🎮 **Gameplay programming** in C++ and Python (AI/behaviors, systems, tools)
-* 🎶 **Music & storytelling** (songwriting, digital media, content creation)
 
 <!--
 ---
@@ -49,16 +42,7 @@ Notebooks showcasing classic models (logistic regression, SVMs, simple nets) wit
 -->
 ---
 
-### Selected Accomplishments
-
-* **NSF‑funded 5G GHOST research assistant** — modeling, simulation, UI design
-* **2× IEEE papers;** presented at **MILCOM 2023 & 2024**
-* Built complex UIs and data pipelines; thrive in startup‑style teams
-* Recognized **ZAG influencer** representing *Miraculous Tales of Ladybug and Cat Noir*
-
----
-
-### Skills Snapshot
+### Skills 
 
 * **Languages:** Python, C++, HTML, JavaScript, TypeScript, SQL
 * **Tools:** Docker, CMake, Catch2, GitHub Actions
